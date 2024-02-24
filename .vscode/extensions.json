@@ -15,6 +15,8 @@
 		"littlefoxteam.vscode-python-test-adapter",
 		"github.copilot",
 		"github.codespaces",
-		"wholroyd.jinja"
+		"wholroyd.jinja",
+		"ms-python.flake8",
+		"ms-python.black-formatter"
     ]
 }
